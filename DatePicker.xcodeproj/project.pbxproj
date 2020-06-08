@@ -13,6 +13,7 @@
 		008FACEA248698BB0047C5CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 008FACE8248698BB0047C5CB /* Main.storyboard */; };
 		008FACEC248698C90047C5CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 008FACEB248698C90047C5CB /* Assets.xcassets */; };
 		008FACEF248698C90047C5CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 008FACED248698C90047C5CB /* LaunchScreen.storyboard */; };
+		008FAD39248BED670047C5CB /* Lifecode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 008FAD38248BED670047C5CB /* Lifecode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		008FACEB248698C90047C5CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		008FACEE248698C90047C5CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		008FACF0248698C90047C5CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		008FAD38248BED670047C5CB /* Lifecode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lifecode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				008FACE4248698BB0047C5CB /* SceneDelegate.swift */,
 				008FACE6248698BB0047C5CB /* ViewController.swift */,
 				008FACE8248698BB0047C5CB /* Main.storyboard */,
+				008FAD38248BED670047C5CB /* Lifecode.swift */,
 				008FACEB248698C90047C5CB /* Assets.xcassets */,
 				008FACED248698C90047C5CB /* LaunchScreen.storyboard */,
 				008FACF0248698C90047C5CB /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				008FAD39248BED670047C5CB /* Lifecode.swift in Sources */,
 				008FACE7248698BB0047C5CB /* ViewController.swift in Sources */,
 				008FACE3248698BB0047C5CB /* AppDelegate.swift in Sources */,
 				008FACE5248698BB0047C5CB /* SceneDelegate.swift in Sources */,
